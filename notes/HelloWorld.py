@@ -47,7 +47,7 @@ car_cylinders = 16
 car_miles_per_gallon = 0.01
 
 # Make it print "I have a car called Wiebe Mobile. It is a Tesla."
-print("I have a car called %s. It is a %s."% (car_name, car_type))
+print("I have a car called %s. It is a %s." % (car_name, car_type))
 
 # Recasting
 real_age = int(input("How old are you again?"))
