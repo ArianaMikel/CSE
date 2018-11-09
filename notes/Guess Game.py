@@ -13,8 +13,5 @@ while guesses > 0:
     elif num == number:
         print("Correct!")
         guesses = 0
-    if guesses == 0:
+    elif num == 0:
         print("You Lose")
-
-
-
