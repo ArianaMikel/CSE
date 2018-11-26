@@ -7,4 +7,3 @@ while cash > 0
     if dice1 + dice2 == 7:
         cash + 4
         rounds = rounds - 1
-        
