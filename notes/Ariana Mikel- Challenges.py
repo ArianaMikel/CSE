@@ -3,3 +3,5 @@ def challenge1(firstname, lastname):
 
 
 print(challenge1("Ariana", "Mikel"))
+
+def challenge2(number, response):
