@@ -1,6 +1,6 @@
 class Room(object):
     def __init__(self, name, description, north=None, south=None, east=None, west=None, down=None, up=None,
-                 teleport=None, item=None):
+                 move=None, item=None):
         self.name = name
         self.north = north
         self.south = south
@@ -8,7 +8,7 @@ class Room(object):
         self.west = west
         self.up = up  # castle_of_ashtree
         self.down = down
-        self.teleport = teleport
+        self.move = move
         self.description = description
         self.characters = []
         self.item = item
@@ -37,17 +37,13 @@ class Player(object):
         :param direction:
         :return: The room object if it exists, or None if it does not
             """
-
         name_of_room = getattr(self.current_location, direction)
         return globals()[name_of_room]
 
 
-print("Hi, thanks for playing my game, the controls are, north(n), south(s), east(e), west(w) and teleport(t)")
-
 # Option 2 - Set all at once, modify controller
 
 # Items
-
 
 class Item(object):
     def __init__(self, name):
@@ -254,8 +250,6 @@ chair = Chair()
 knife = Knife()
 glass_bottle = GlassBottle()
 
-
-
 ricos_food_truck = Room(
     "Rico's Food Truck",
     "This truck is filled with light and it has 'La Chona' playing on "
@@ -280,11 +274,11 @@ magical_castle = Room(
     "Magical Castle",
     "The smell of sweet roses is in the air, as you walk into the castle,"
     " everything is white.You walk into the grand ballroom, everything is perfect",
-    "goblins_lair", "ogres_lair", "update_room_1", "sugar_forest")
+    "goblins_lair", "ogres_lair", "update_room_1", "sugar_forest", None, None, None, knight_shield)
 update_room_1 = Room(
     "Update Room 1",
     "As you come in you see a vortex, you walk closer and look inside it",
-    None, None, None, "magical_castle", None, None, "quest_room")
+    None, None, None, "magical_castle", None, None, "quest_room", frying_pan)
 flood_room = Room(
     "Flood Room",
     "As you go in water is at your feet. Your shoes are now soggy.", "R19A",
@@ -313,8 +307,8 @@ dead_puppy_room = Room(
 meet_the_parents = Room(
     "Meeting the Parents Room",
     "You walk into a kitchen, there is a man and woman, "
-    "they keep asking you about your job and future career, they have a big bowl full of grapes, take some, if you dare"
-    , None, None, "dead_puppy_room", "hades_lair", None, None, None, grapes)
+    "they keep asking you about your job and future career, they have a big bowl full of grapes, take some, "
+    "if you dare", None, None, "dead_puppy_room", "hades_lair", None, None, None, grapes)
 hades_lair = Room(
     "Hades' Lair",
     "Now you are in a dark cave, with a shrine of a red goatman with the fear of thousands"
@@ -367,7 +361,7 @@ princess_room = Room(
     "Princess Room",
     "You know, just regular princess stuff, black walls with black drapes and "
     "black furniture, with Nirvana, Pink Floyd and Guns'n'Roses posters", None,
-    "castle_of_ashtree", None, None, None)
+    "castle_of_ashtree", None, None, None, None, None, general_shield)
 castle_of_ashtree = Room(
     "Castle of Ashtree",
     "The grand off white castle is huge with double doors", "princess_room",
@@ -383,7 +377,7 @@ bug_and_liver = Room(
     None, None, None, bug and liver)
 dungeon = Room("Dungeon",
                "It's dark and wet, you can see cells and skeletons.", None,
-               "living_room")
+               "living_room", None, None, None, None, None, hammer)
 living_room = Room(
     "Living Room",
     "The grand light green living room smells of mint and lime, the furniture is almost"
@@ -394,13 +388,15 @@ kitchen = Room(
     'living_room')
 evil_queen = Room(
     "Evil Queen Location",
-    "Well, you made it to the Evil Queen in her long dark purple gown, gook luck",
+    "Well, you made it to the Evil Queen in her long dark purple gown, good luck",
     None, None, "living_room", None, None, None, None, evil_queeen)
+
 player = Player(ricos_food_truck)
 # Controller
 playing = True
 directions = ['north', 'south', 'east', 'west', 'up', 'down', 'teleport']
 short_directions = ['n', 's', 'e', 'w', 'u', 'd', 't']
+
 
 while playing:
     print(player.current_location.name)
@@ -412,18 +408,7 @@ while playing:
                   player.current_location.item.name.lower())
         except AttributeError:
             pass
-    pick_up_command = input("What item would you like to pick up")
-    selected_item = None
-
-    for item in player.current_location.item:
-        if pick_up_command in item.name:
-            print("You have picked up %s" % pick_up_command)
-            selected_item = item
-
     command = input(">_")
-    if command.lower() in short_directions:
-        pos = short_directions.index(command.lower())
-        command = directions[pos]
     if player.current_location.item is not None and command.lower() in [
             'pick up', 'grab', 'take'
     ]:

@@ -254,8 +254,6 @@ chair = Chair()
 knife = Knife()
 glass_bottle = GlassBottle()
 
-
-
 ricos_food_truck = Room(
     "Rico's Food Truck",
     "This truck is filled with light and it has 'La Chona' playing on "
@@ -280,11 +278,11 @@ magical_castle = Room(
     "Magical Castle",
     "The smell of sweet roses is in the air, as you walk into the castle,"
     " everything is white.You walk into the grand ballroom, everything is perfect",
-    "goblins_lair", "ogres_lair", "update_room_1", "sugar_forest")
+    "goblins_lair", "ogres_lair", "update_room_1", "sugar_forest", None, None, None, knight_shield)
 update_room_1 = Room(
     "Update Room 1",
     "As you come in you see a vortex, you walk closer and look inside it",
-    None, None, None, "magical_castle", None, None, "quest_room")
+    None, None, None, "magical_castle", None, None, "quest_room", frying_pan)
 flood_room = Room(
     "Flood Room",
     "As you go in water is at your feet. Your shoes are now soggy.", "R19A",
@@ -367,7 +365,7 @@ princess_room = Room(
     "Princess Room",
     "You know, just regular princess stuff, black walls with black drapes and "
     "black furniture, with Nirvana, Pink Floyd and Guns'n'Roses posters", None,
-    "castle_of_ashtree", None, None, None)
+    "castle_of_ashtree", None, None, None, None, None, general_shield)
 castle_of_ashtree = Room(
     "Castle of Ashtree",
     "The grand off white castle is huge with double doors", "princess_room",
