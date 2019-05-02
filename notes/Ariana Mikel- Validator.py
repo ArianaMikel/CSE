@@ -6,6 +6,7 @@ import csv
 # The check digit (the last number of the card) is the amount that you would need to add to get a multiple of 10
 # (Modulo 10)
 
+
 def sixteen_digits(num: str):
     if (len(num)) == 16:
         if (len(num)) == 16:
@@ -13,8 +14,3 @@ def sixteen_digits(num: str):
         else:
             print("Not every number has 16 digits")
             return False
-
-list_num = list(number)
-for index in range(len(list_num)):
-    list_num[index] = int(list_num[index])
-    

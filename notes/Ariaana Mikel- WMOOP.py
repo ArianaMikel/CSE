@@ -381,7 +381,7 @@ bug_and_liver = Room(
     None, None, None, bug and liver)
 dungeon = Room("Dungeon",
                "It's dark and wet, you can see cells and skeletons.", None,
-               "living_room")
+               "living_room", None, None, None, None, None, hammer)
 living_room = Room(
     "Living Room",
     "The grand light green living room smells of mint and lime, the furniture is almost"

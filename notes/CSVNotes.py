@@ -60,6 +60,7 @@ def reverse(string):
 
     reverse("Hello World")
 
+
 with open("Book1.csv", 'r') as old_csv:
     with open("myNewFile.csv", 'w', newline='') as new_csv:
         print("Writing file...")
