@@ -14,3 +14,21 @@ def sixteen_digits(num: str):
         else:
             print("Not every number has 16 digits")
             return False
+def divisible_by_2(number: int):
+    if number % 2 == 0:
+        return True
+    return False
+
+def valid_card_number(num: str):
+    if not sixteen_digits(num):
+        return False
+    valid_card_number_list = list(num)
+    valid_card_number_list.pop(15)
+    for number in range
+
+def reverse(string):
+    print(string[::-1])
+
+
+def multiply(num: str):
+    num =
