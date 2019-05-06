@@ -19,12 +19,14 @@ def divisible_by_2(number: int):
         return True
     return False
 
+reverse_num = num::[-1]
+
 def valid_card_number(num: str):
     if not sixteen_digits(num):
         return False
     valid_card_number_list = list(num)
     valid_card_number_list.pop(15)
-    for number in range
+    for number in range(len(num))
 
 def reverse(string):
     print(string[::-1])
