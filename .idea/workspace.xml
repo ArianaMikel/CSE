@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notes/CSVNotes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="63" column="39" lean-forward="true" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
+            <state relative-caret-position="1071">
+              <caret line="63" column="39" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Sales Record.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -31,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notes/Sales Records (1).csv">
           <provider selected="true" editor-type-id="LargeFileEditor">
-            <state relative-caret-position="51">
-              <caret line="3" column="129" lean-forward="true" selection-start-line="3" selection-start-column="129" selection-end-line="3" selection-end-column="129" />
+            <state relative-caret-position="136">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -62,8 +62,8 @@
         <option value="$PROJECT_DIR$/notes/World Map OOP- Ariana Mikel.py" />
         <option value="$PROJECT_DIR$/notes/Ariana Mikel- Gallery Walk.py" />
         <option value="$PROJECT_DIR$/notes/Ariana Mikel- Validator.py" />
-        <option value="$PROJECT_DIR$/notes/Ariana Mikel- Sales Record.py" />
         <option value="$PROJECT_DIR$/notes/CSVNotes.py" />
+        <option value="$PROJECT_DIR$/notes/Ariana Mikel- Sales Record.py" />
       </list>
     </option>
   </component>
@@ -78,6 +78,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,7 +95,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -103,13 +103,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/notes" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\c53g\Documents\GitHub\CSE\notes" />
-      <recent name="C:\Users\c53g\Documents\GitHub\CSE\notes\venv" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\c53g\Documents\GitHub\CSE\notes" />
       <recent name="C:\Users\c53g\Documents\GitHub\CSE" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\c53g\Documents\GitHub\CSE\notes" />
+      <recent name="C:\Users\c53g\Documents\GitHub\CSE\notes\venv" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -261,18 +261,19 @@
       <workItem from="1556808700652" duration="5628000" />
       <workItem from="1556902330214" duration="2845000" />
       <workItem from="1557157992126" duration="3164000" />
-      <workItem from="1557244245171" duration="2237000" />
+      <workItem from="1557244245171" duration="2368000" />
+      <workItem from="1557330652766" duration="2567000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26689000" />
+    <option name="totallyTimeSpent" value="29387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18976545" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19189766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -438,27 +439,26 @@
     <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel - Fix It.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/venv/Sales Records (1).csv">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/Sales Records (1).csv">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="51">
-          <caret line="3" column="129" lean-forward="true" selection-start-line="3" selection-start-column="129" selection-end-line="3" selection-end-column="129" />
+    <entry file="file://$PROJECT_DIR$/notes/venv/Sales Records (1).csv" />
+    <entry file="file://$PROJECT_DIR$/notes/CSVNotes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="39" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/CSVNotes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="63" column="39" lean-forward="true" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
+    <entry file="file://$PROJECT_DIR$/notes/Sales Records (1).csv">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="136">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Sales Record.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>

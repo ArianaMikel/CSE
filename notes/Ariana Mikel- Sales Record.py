@@ -1,4 +1,4 @@
 import csv
 
-with open (Sales Records (1).csv):
-
+def print_item_type():
+    print("")
