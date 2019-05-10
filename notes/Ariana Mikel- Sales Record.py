@@ -1,6 +1,8 @@
 import csv
 
-def get_total():
+
+with open("Sales Records(1).csv", 'r') as old_csv:
+    reader = csv.reader(old_csv)
     fruits = 0
     clothes = 0
     meat = 0
@@ -13,3 +15,7 @@ def get_total():
     vegetables = 0
     snacks = 0
     cereal = 0
+    print("Processing...")
+    for row in reader:
+        if row[2] == "Fruits"
+
