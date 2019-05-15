@@ -1,7 +1,7 @@
 import csv
 
 
-with open("Sales Records(1).csv", 'r') as old_csv:
+with open("Sales Records (1).csv", 'r') as old_csv:
     reader = csv.reader(old_csv)
     fruits = 0
     clothes = 0
@@ -25,7 +25,7 @@ with open("Sales Records(1).csv", 'r') as old_csv:
             profits = float(row[13])
             for i in row[13]:
                 clothes += profits
-        elif row[2] == "Meats":
+        elif row[2] == "Meat":
             profits = float(row[13])
             for i in row[13]:
                 meat += profits
@@ -41,7 +41,7 @@ with open("Sales Records(1).csv", 'r') as old_csv:
             profits = float(row[13])
             for i in row[13]:
                 cosmetics += profits
-        elif row[2] == "Person Care":
+        elif row[2] == "Personal Care":
             profits = float(row[13])
             for i in row[13]:
                 personal_care += profits
@@ -84,4 +84,26 @@ print("The profit for cereal is %d" % cereal)
 
 
 if max(the_profits) == fruits:
-    print("FD")
+    print("Fruits are the most profitable")
+if max(the_profits) == clothes:
+    print("Clothes are the most profitable")
+if max(the_profits) == meat:
+    print("Meat is the most profitable")
+if max(the_profits) == beverages:
+    print("Beverages are the most profitable")
+if max(the_profits) == office_supplies:
+    print("Office supplies are the most profitable")
+if max(the_profits) == cosmetics:
+    print("Cosmetics are the most profitable")
+if max(the_profits) == personal_care:
+    print("Personal Care is the most profitable")
+if max(the_profits) == household:
+    print("Household items are the most profitable")
+if max(the_profits) == baby_food:
+    print("Baby Food is the most profitable")
+if max(the_profits) == vegetables:
+    print("Vegetable is the most profitable")
+if max(the_profits) == snacks:
+    print("Snacks are the most profitable")
+if max(the_profits) == cereal:
+    print("Cereal is the most profitable")

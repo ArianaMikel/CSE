@@ -22,21 +22,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Sales Record.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="86" column="13" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
-              <folding>
-                <element signature="e#366#2024#0" />
-              </folding>
+            <state relative-caret-position="313">
+              <caret line="100" column="48" lean-forward="true" selection-start-line="100" selection-start-column="48" selection-end-line="100" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Choose Your Own Adventure.py">
+        <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Validator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1304">
-              <caret line="230" column="14" lean-forward="true" selection-start-line="230" selection-start-column="14" selection-end-line="230" selection-end-column="14" />
-              <caret line="229" column="16" lean-forward="true" selection-start-line="229" selection-start-column="16" selection-end-line="229" selection-end-column="16" />
+            <state relative-caret-position="153">
+              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -109,6 +105,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,7 +122,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Ariana Mikel- Choose Your Own Adventure">
+  <component name="RunManager" selected="Python.Ariana Mikel- Sales Record">
     <configuration name="Ariaana Mikel- WMOOP" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CSE" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,28 +174,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ariana Mikel - Mad Lib" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CSE" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notes/Ariana Mikel - Mad Lib.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Ariana Mikel- Choose Your Own Adventure" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CSE" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,6 +188,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notes/Ariana Mikel- Choose Your Own Adventure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ariana Mikel- Sales Record" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CSE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notes/Ariana Mikel- Sales Record.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ariana Mikel- Sales Record" />
         <item itemvalue="Python.Ariana Mikel- Choose Your Own Adventure" />
         <item itemvalue="Python.Ariaana Mikel- WMOOP" />
         <item itemvalue="Python.WHY LORD WHY" />
         <item itemvalue="Python.Ariana Mikel- Validator" />
-        <item itemvalue="Python.Ariana Mikel - Mad Lib" />
       </list>
     </recent_temporary>
   </component>
@@ -296,23 +292,24 @@
       <workItem from="1557330652766" duration="2612000" />
       <workItem from="1557417085179" duration="3315000" />
       <workItem from="1557507112732" duration="2830000" />
-      <workItem from="1557849066355" duration="3302000" />
+      <workItem from="1557849066355" duration="3327000" />
+      <workItem from="1557935343285" duration="3328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38879000" />
+    <option name="totallyTimeSpent" value="42232000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19829424" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20042644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -339,6 +336,7 @@
     <SUITE FILE_PATH="coverage/CSE$CSVNotes.coverage" NAME="CSVNotes Coverage Results" MODIFIED="1556295180486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CSE$CSVNotes__1_.coverage" NAME="CSVNotes (1) Coverage Results" MODIFIED="1556813587144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
     <SUITE FILE_PATH="coverage/CSE$Ariaana_Mikel__WMOOP.coverage" NAME="Ariaana Mikel- WMOOP Coverage Results" MODIFIED="1557419787292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
+    <SUITE FILE_PATH="coverage/CSE$Ariana_Mikel__Sales_Record.coverage" NAME="Ariana Mikel- Sales Record Coverage Results" MODIFIED="1557938796777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
     <SUITE FILE_PATH="coverage/CSE$Ariana_Mikel___Mad_Lib.coverage" NAME="Ariana Mikel - Mad Lib Coverage Results" MODIFIED="1556814712715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
     <SUITE FILE_PATH="coverage/CSE$Ariana_Mikel__World_Map_OOP.coverage" NAME="Ariana Mikel- World Map OOP Coverage Results" MODIFIED="1556208272219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/" />
     <SUITE FILE_PATH="coverage/CSE$Ariana_Mikel__Choose_Your_Own_Adventure.coverage" NAME="Ariana Mikel- Choose Your Own Adventure Coverage Results" MODIFIED="1557508393421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
@@ -446,13 +444,6 @@
     <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Inheritance.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Validator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/notes/CSVNotes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
@@ -461,6 +452,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/notes/Sales Records (1).csv">
+      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="csv-data-editor">
         <state>
           <format>
@@ -482,23 +474,26 @@
           <caret line="10168" column="89" selection-start-line="10168" selection-start-column="89" selection-end-line="10168" selection-end-column="89" />
         </state>
       </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Choose Your Own Adventure.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1304">
-          <caret line="230" column="14" lean-forward="true" selection-start-line="230" selection-start-column="14" selection-end-line="230" selection-end-column="14" />
-          <caret line="229" column="16" lean-forward="true" selection-start-line="229" selection-start-column="16" selection-end-line="229" selection-end-column="16" />
+        <state relative-caret-position="17">
+          <caret line="230" column="14" selection-start-line="230" selection-start-column="14" selection-end-line="230" selection-end-column="14" />
+          <caret line="229" column="16" selection-start-line="229" selection-start-column="16" selection-end-line="229" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Validator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Sales Record.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="86" column="13" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
-          <folding>
-            <element signature="e#366#2024#0" />
-          </folding>
+        <state relative-caret-position="313">
+          <caret line="100" column="48" lean-forward="true" selection-start-line="100" selection-start-column="48" selection-end-line="100" selection-end-column="48" />
         </state>
       </provider>
     </entry>
