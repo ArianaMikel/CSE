@@ -13,7 +13,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notes/CSVNotes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="838">
+            <state relative-caret-position="1071">
               <caret line="63" column="39" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
             </state>
           </provider>
@@ -31,19 +31,68 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Validator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notes/Validator.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notes/myNewFile.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="834">
+              <caret line="1477" column="16" selection-start-line="1477" selection-start-column="16" selection-end-line="1477" selection-end-column="16" />
+              <caret line="1478" column="16" selection-start-line="1478" selection-start-column="16" selection-end-line="1478" selection-end-column="16" />
+              <caret line="1479" column="16" selection-start-line="1479" selection-start-column="16" selection-end-line="1479" selection-end-column="16" />
+              <caret line="1480" column="16" selection-start-line="1480" selection-start-column="16" selection-end-line="1480" selection-end-column="16" />
+              <caret line="1481" column="16" selection-start-line="1481" selection-start-column="16" selection-end-line="1481" selection-end-column="16" />
+              <caret line="1482" column="16" selection-start-line="1482" selection-start-column="16" selection-end-line="1482" selection-end-column="16" />
+              <caret line="1483" column="16" selection-start-line="1483" selection-start-column="16" selection-end-line="1483" selection-end-column="16" />
+              <caret line="1484" column="16" selection-start-line="1484" selection-start-column="16" selection-end-line="1484" selection-end-column="16" />
+              <caret line="1485" column="16" selection-start-line="1485" selection-start-column="16" selection-end-line="1485" selection-end-column="16" />
+              <caret line="1486" column="16" selection-start-line="1486" selection-start-column="16" selection-end-line="1486" selection-end-column="16" />
+              <caret line="1487" column="16" selection-start-line="1487" selection-start-column="16" selection-end-line="1487" selection-end-column="16" />
+              <caret line="1488" column="16" selection-start-line="1488" selection-start-column="16" selection-end-line="1488" selection-end-column="16" />
+              <caret line="1489" column="16" selection-start-line="1489" selection-start-column="16" selection-end-line="1489" selection-end-column="16" />
+              <caret line="1490" column="16" selection-start-line="1490" selection-start-column="16" selection-end-line="1490" selection-end-column="16" />
+              <caret line="1491" column="16" selection-start-line="1491" selection-start-column="16" selection-end-line="1491" selection-end-column="16" />
+              <caret line="1492" column="16" selection-start-line="1492" selection-start-column="16" selection-end-line="1492" selection-end-column="16" />
+              <caret line="1493" column="16" selection-start-line="1493" selection-start-column="16" selection-end-line="1493" selection-end-column="16" />
+              <caret line="1494" column="16" selection-start-line="1494" selection-start-column="16" selection-end-line="1494" selection-end-column="16" />
+              <caret line="1495" column="16" selection-start-line="1495" selection-start-column="16" selection-end-line="1495" selection-end-column="16" />
+              <caret line="1496" column="16" selection-start-line="1496" selection-start-column="16" selection-end-line="1496" selection-end-column="16" />
+              <caret line="1497" column="16" selection-start-line="1497" selection-start-column="16" selection-end-line="1497" selection-end-column="16" />
+              <caret line="1498" column="16" selection-start-line="1498" selection-start-column="16" selection-end-line="1498" selection-end-column="16" />
+              <caret line="1499" column="16" selection-start-line="1499" selection-start-column="16" selection-end-line="1499" selection-end-column="16" />
+              <caret line="1500" column="16" selection-start-line="1500" selection-start-column="16" selection-end-line="1500" selection-end-column="16" />
+              <caret line="1501" column="16" selection-start-line="1501" selection-start-column="16" selection-end-line="1501" selection-end-column="16" />
+              <caret line="1502" column="16" selection-start-line="1502" selection-start-column="16" selection-end-line="1502" selection-end-column="16" />
+              <caret line="1503" column="16" selection-start-line="1503" selection-start-column="16" selection-end-line="1503" selection-end-column="16" />
+              <caret line="1504" column="16" selection-start-line="1504" selection-start-column="16" selection-end-line="1504" selection-end-column="16" />
+              <caret line="1505" column="16" selection-start-line="1505" selection-start-column="16" selection-end-line="1505" selection-end-column="16" />
+              <caret line="1506" column="16" selection-start-line="1506" selection-start-column="16" selection-end-line="1506" selection-end-column="16" />
+              <caret line="1507" column="16" selection-start-line="1507" selection-start-column="16" selection-end-line="1507" selection-end-column="16" />
+              <caret line="1508" column="16" selection-start-line="1508" selection-start-column="16" selection-end-line="1508" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notes/Book1.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="834">
+              <caret line="110" column="16" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notes/Sales Records (1).csv">
-          <provider editor-type-id="LargeFileEditor">
-            <state relative-caret-position="172856">
-              <caret line="10168" column="89" selection-start-line="10168" selection-start-column="89" selection-end-line="10168" selection-end-column="89" />
-            </state>
-          </provider>
           <provider selected="true" editor-type-id="csv-data-editor">
             <state>
               <format>
@@ -58,6 +107,11 @@
                   </data>
                 </csv-format>
               </format>
+            </state>
+          </provider>
+          <provider editor-type-id="LargeFileEditor">
+            <state relative-caret-position="172856">
+              <caret line="10168" column="89" selection-start-line="10168" selection-start-column="89" selection-end-line="10168" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -94,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -151,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Ariana Mikel- Sales Record">
+  <component name="RunManager" selected="Python.Ariana Mikel- Validator">
     <configuration name="Ariaana Mikel- WMOOP" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CSE" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -264,11 +318,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ariana Mikel- Validator" />
         <item itemvalue="Python.Ariana Mikel- Sales Record" />
         <item itemvalue="Python.Ariana Mikel- Choose Your Own Adventure" />
         <item itemvalue="Python.Ariaana Mikel- WMOOP" />
         <item itemvalue="Python.WHY LORD WHY" />
-        <item itemvalue="Python.Ariana Mikel- Validator" />
       </list>
     </recent_temporary>
   </component>
@@ -294,23 +348,24 @@
       <workItem from="1557507112732" duration="2830000" />
       <workItem from="1557849066355" duration="3327000" />
       <workItem from="1557935343285" duration="3424000" />
-      <workItem from="1558021741720" duration="3068000" />
+      <workItem from="1558021741720" duration="3093000" />
+      <workItem from="1558111879214" duration="2928000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45396000" />
+    <option name="totallyTimeSpent" value="48349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20255864" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20469083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -333,7 +388,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CSE$Ariana_Mikel__Gallery_Walk.coverage" NAME="Ariana Mikel- Gallery Walk Coverage Results" MODIFIED="1556208424151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/" />
-    <SUITE FILE_PATH="coverage/CSE$Ariana_Mikel__Validator.coverage" NAME="Ariana Mikel- Validator Coverage Results" MODIFIED="1556904170558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
+    <SUITE FILE_PATH="coverage/CSE$Ariana_Mikel__Validator.coverage" NAME="Ariana Mikel- Validator Coverage Results" MODIFIED="1558114812809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
     <SUITE FILE_PATH="coverage/CSE$CSVNotes.coverage" NAME="CSVNotes Coverage Results" MODIFIED="1556295180486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CSE$CSVNotes__1_.coverage" NAME="CSVNotes (1) Coverage Results" MODIFIED="1556813587144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
     <SUITE FILE_PATH="coverage/CSE$Ariaana_Mikel__WMOOP.coverage" NAME="Ariaana Mikel- WMOOP Coverage Results" MODIFIED="1557419787292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
@@ -379,6 +434,80 @@
     <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel - Mad Lib.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel - Fix It.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/venv/Sales Records (1).csv" />
+    <entry file="file://$PROJECT_DIR$/notes/WHY LORD WHY.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="378" column="75" lean-forward="true" selection-start-line="378" selection-start-column="75" selection-end-line="378" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/Ariaana Mikel- WMOOP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Inheritance.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Choose Your Own Adventure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="230" column="14" selection-start-line="230" selection-start-column="14" selection-end-line="230" selection-end-column="14" />
+          <caret line="229" column="16" selection-start-line="229" selection-start-column="16" selection-end-line="229" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/CSVNotes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="39" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Sales Record.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="107" column="20" selection-start-line="107" selection-start-column="20" selection-end-line="107" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/Sales Records (1).csv">
+      <provider editor-type-id="text-editor" />
+      <provider editor-type-id="LargeFileEditor">
+        <state relative-caret-position="172856">
+          <caret line="10168" column="89" selection-start-line="10168" selection-start-column="89" selection-end-line="10168" selection-end-column="89" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="csv-data-editor">
+        <state>
+          <format>
+            <csv-format name="Comma-separated (CSV)" id="Comma-separated (CSV)_id">
+              <data>
+                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                  <quotation>
+                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                  </quotation>
+                </record-format>
+              </data>
+            </csv-format>
+          </format>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/Book1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="110" column="16" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/notes/myNewFile.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="834">
@@ -417,84 +546,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/Book1.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="834">
-          <caret line="110" column="16" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel - Fix It.py">
+    <entry file="file://$PROJECT_DIR$/notes/Validator.csv">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/venv/Sales Records (1).csv" />
-    <entry file="file://$PROJECT_DIR$/notes/WHY LORD WHY.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="378" column="75" lean-forward="true" selection-start-line="378" selection-start-column="75" selection-end-line="378" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/Ariaana Mikel- WMOOP.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Inheritance.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Choose Your Own Adventure.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="230" column="14" selection-start-line="230" selection-start-column="14" selection-end-line="230" selection-end-column="14" />
-          <caret line="229" column="16" selection-start-line="229" selection-start-column="16" selection-end-line="229" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/Sales Records (1).csv">
-      <provider editor-type-id="LargeFileEditor">
-        <state relative-caret-position="172856">
-          <caret line="10168" column="89" selection-start-line="10168" selection-start-column="89" selection-end-line="10168" selection-end-column="89" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="csv-data-editor">
-        <state>
-          <format>
-            <csv-format name="Comma-separated (CSV)" id="Comma-separated (CSV)_id">
-              <data>
-                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
-                  <quotation>
-                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
-                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
-                  </quotation>
-                </record-format>
-              </data>
-            </csv-format>
-          </format>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/CSVNotes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="838">
-          <caret line="63" column="39" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Sales Record.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1819">
-          <caret line="107" column="20" selection-start-line="107" selection-start-column="20" selection-end-line="107" selection-end-column="20" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/notes/Ariana Mikel- Validator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>

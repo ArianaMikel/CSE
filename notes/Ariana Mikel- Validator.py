@@ -19,7 +19,6 @@ def divisible_by_2(number: int):
         return True
     return False
 
-reverse_num = num::[-1]
 
 def valid_card_number(num: str):
     if not sixteen_digits(num):
@@ -36,13 +35,21 @@ def valid_card_number(num: str):
         if divisible_by_2(index):
             if int(reversed_num_list[index]) * 2 > 9:
                 reversed_num_list[index] = int(reversed_num_list[index]) * 2 - 9
-            else: 
+            else:
+                reversed_num_list[index] *= 2
+    sum_numbers = sum(reversed_num_list)
+    if(sum_numbers % 10) == 0:
+        return True
 
+    return False
 
-
-def reverse(string):
-    print(string[::-1])
-
-
-def multiply(num: str):
-    num =
+with open("Book1.csv", "r") as old_csv:
+    with open("Validator.csv", "w", newline='') as new_csv:
+        reader = csv.reader(old_csv)
+        writer = csv.writer(new_csv)
+        print("Processing...")
+        for row in reader:
+            num = row[0]
+            if valid_card_number(num):
+                writer.writerow(row)
+        print("Done")
