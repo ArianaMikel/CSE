@@ -7,13 +7,15 @@ import csv
 # (Modulo 10)
 
 
-def sixteen_digits(num: str):
-    if (len(num)) == 16:
-        if (len(num)) == 16:
+def sixteen_digits(number16: str):
+    if (len(number16)) == 16:
+        if (len(number16)) == 16:
             return True
         else:
             print("Not every number has 16 digits")
             return False
+
+
 def divisible_by_2(number: int):
     if number % 2 == 0:
         return True
@@ -29,7 +31,7 @@ def valid_card_number(num: str):
         valid_card_number_list[number] = int(valid_card_number_list[number])
     reversed_num = num[::-1]
     reversed_num_list = []
-    for i in range (len(reversed_num)):
+    for i in range(len(reversed_num)):
         reversed_num_list.append(int(reversed_num[i]))
     for index in range(len(reversed_num_list)):
         if divisible_by_2(index):
@@ -42,6 +44,7 @@ def valid_card_number(num: str):
         return True
 
     return False
+
 
 with open("Book1.csv", "r") as old_csv:
     with open("Validator.csv", "w", newline='') as new_csv:

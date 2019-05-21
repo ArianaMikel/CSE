@@ -1,6 +1,6 @@
 class Room(object):
     def __init__(self, name, description, north=None, south=None, east=None, west=None, down=None, up=None,
-                 move=None, item=None):
+                 teleport=None, item=None):
         self.name = name
         self.north = north
         self.south = south
@@ -8,7 +8,7 @@ class Room(object):
         self.west = west
         self.up = up  # castle_of_ashtree
         self.down = down
-        self.move = move
+        self.teleport = teleport
         self.description = description
         self.characters = []
         self.item = item
@@ -250,6 +250,9 @@ chair = Chair()
 knife = Knife()
 glass_bottle = GlassBottle()
 
+print("Thanks for playing my game! You can move using, 'n' for north, 's' for south, 'e' for east, 'w' for west, "
+      "'t' for teleport, and 'q' for quit, enjoy?")
+
 ricos_food_truck = Room(
     "Rico's Food Truck",
     "This truck is filled with light and it has 'La Chona' playing on "
@@ -409,6 +412,11 @@ while playing:
         except AttributeError:
             pass
     command = input(">_")
+
+    if command.lower() in short_directions:
+        pos = short_directions.index(command.lower())
+        command = directions[pos]
+
     if player.current_location.item is not None and command.lower() in [
             'pick up', 'grab', 'take'
     ]:
