@@ -377,7 +377,7 @@ bug_and_liver = Room(
     "Helga's Bug and Liver Joint",
     "People are passed out on the floor, you can hear children"
     " gag, and it smells like sour fruit", "happy_forest", None, None, None,
-    None, None, None, bug and liver)
+    None, None, None, bug)
 dungeon = Room("Dungeon",
                "It's dark and wet, you can see cells and skeletons.", None,
                "living_room", None, None, None, None, None, hammer)
